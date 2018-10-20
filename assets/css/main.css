@@ -222,7 +222,7 @@ h2.resp-tab-active {
 }
 h2.resp-tab-title:last-child {
     border-bottom: 12px solid #ccc !important;
-    background: blue;
+    background: orange;
 }
 /*-----------------------------------*/
 /*-----------Vertical tabs-----------*/
